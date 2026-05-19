@@ -12,8 +12,8 @@
         "source": "github",
         "repo": "tkxlab-ai/GitX"
       },
-      "description": "GitX — cross-project release pipeline.",
-      "version": "1.10.1",
+      "description": "GitX — cross-project release pipeline (release / audit / scan / gitx-init / gitx-sop).",
+      "version": "1.12.0",
       "author": {
         "name": "TKXLAB.AI"
       },
@@ -22,7 +22,9 @@
       "keywords": [
         "release",
         "ci",
-        "skill"
+        "skill",
+        "audit",
+        "sbom"
       ]
     }
   ]

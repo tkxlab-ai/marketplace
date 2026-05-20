@@ -13,7 +13,7 @@
         "repo": "tkxlab-ai/GitX"
       },
       "description": "GitX — cross-project release pipeline (release / audit / scan / gitx-init / gitx-sop).",
-      "version": "1.12.2",
+      "version": "1.12.3",
       "author": {
         "name": "TKXLAB.AI"
       },

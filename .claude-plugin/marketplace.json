@@ -26,6 +26,15 @@
         "audit",
         "sbom"
       ]
+    },
+    {
+      "name": "demo-skill-one",
+      "source": {
+        "source": "github",
+        "repo": "tkxlab-ai/demo-skill-one"
+      },
+      "version": "0.2.0",
+      "description": "First demo skill for marketplace fixture tests."
     }
   ]
 }

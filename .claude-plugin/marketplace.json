@@ -26,6 +26,17 @@
         "audit",
         "sbom"
       ]
+    },
+    {
+      "name": "handoffx",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tkxlab-ai/HandoffX.git"
+      },
+      "description": "Project-level handoff for AI coding tools: a Markdown project state that any person, session or CLI can pick up from.",
+      "version": "4.4.0",
+      "homepage": "https://github.com/tkxlab-ai/HandoffX",
+      "license": "MIT"
     }
   ]
 }
